@@ -1,1 +1,1 @@
-# This is practice with python dictionaries.
+# This is practice with python.
